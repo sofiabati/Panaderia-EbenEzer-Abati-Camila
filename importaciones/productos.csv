@@ -1,0 +1,9 @@
+id_producto,nombre,descripcion,precio,unidad_medida
+9,Pan Frances,Pan blanco de miga suave,2500,kg
+2,Baguette,Pan frances alargado y crujiente,3000,kg
+3,Medialunas,Masa hojaldrada con relleno de dulce de leche,700,unidad
+4,Bizcochuelo,Bizcochuelo clasico para tortas,1500,unidad
+5,Facturas,Variedad de facturas dulces,750,unidad
+6,Criollo comun,Bizcocho de grasa,3000,kg
+7,Criollo hojaldre,Bizcocho de grasa hojaldrado,3500,kg
+8,Chipa,Panificado base de almidon de mandioca y queso,15000,kg

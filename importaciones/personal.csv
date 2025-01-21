@@ -1,0 +1,16 @@
+id,nombre,apellido,mail,cuil,id_categoria
+1,Juan,Pérez,juanperez@example.com,20345678912,1
+2,María,López,marialopez@example.com,27123456789,2
+3,Pedro,Gómez,pedrogomez@example.com,30789012345,3
+4,Ana,García,anagarcia@example.com,33154321098,1
+5,Carlos,Rodríguez,carlosrodriguez@example.com,36978543210,2
+6,Sofía,Martínez,sofiamartinez@example.com,39876543210,3
+7,Diego,Fernández,diegofernandez@example.com,42765432109,1
+8,Laura,González,lauragonzalez@example.com,45654321098,2
+9,Lucas,Silva,lucassilva@example.com,48543210987,3
+10,Valentina,Torres,valentinatorres@example.com,51432109876,1
+11,Camila,Castro,camilacastro@example.com,54321098765,2
+12,Benjamín,Díaz,benjamindiaz@example.com,57210987654,3
+13,Emilia,Romero,emiliaromero@example.com,60109876543,1
+14,Mateo,Sánchez,mateosanchez@example.com,63098765432,2
+15,Victoria,Jiménez,victoriajimenez@example.com,66098765432,3
